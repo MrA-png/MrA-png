@@ -1,41 +1,32 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://i.imgur.com/yZ8M5Q0.gif" width="650" alt="Banner"/>
-</div>
+<!-- Banner otomatis dark/light -->
+<p align="center">
+  <img src="banner-light.png#gh-light-mode-only" width="100%">
+  <img src="banner-dark.png#gh-dark-mode-only" width="100%">
+</p>
 
-<h1 align="center">Hi, I'm Azhrul 👋</h1>
+<h2 align="center">Hi, I'm Azhrul 👋</h2>
 
 <p align="center">
-  <b>Software Engineer (1–2 years)</b> — passionate about Full Stack Development, AI, and modern coding workflow.<br/>
-  I love exploring new technologies, especially Artificial Intelligence 🤖 and how ChatGPT can accelerate IT development.<br/>
-  Currently practicing <b>Vibe Coding</b> and sharpening skills for future growth.
+  I'm a Software Engineer with 1–2 years of experience, focusing on Full Stack Development and AI.<br/>
+  I love exploring new technologies, especially Artificial Intelligence 🤖 and improving my skills through Vibe Coding.<br/>
+  Passionate about building smart, clean, and scalable products.
 </p>
 
 ---
 
-# 🌗 Automatic Dark / Light Mode Stats
+## 📊 GitHub Stats (Auto-Updated)
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=default&hide_border=true"/>
-</picture>
-
-<!-- Top Languages -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=default&hide_border=true"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrA-png&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 
 </div>
 
 ---
 
-# 📈 Auto-Updating Contribution Graph
+## 🔥 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrA-png&theme=react-dark&area=true&hide_border=true"/>
@@ -43,28 +34,38 @@
 
 ---
 
-# 📆 Auto-Update Stats (Daily)
+## ✨ Tech Stack
 
-Tambahkan file GitHub Actions agar stats otomatis refresh tiap hari.
+<div align="center">
 
-### Buat file:
-`.github/workflows/update-stats.yml`
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,express,react,nextjs,html,css,python,tailwind,mongodb,mysql,redis,docker,figma,aws,linux,git,vite,postman)](https://skillicons.dev)
 
-Isi dengan:
+</div>
 
-```yml
-name: Update Stats
+---
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+## 🏆 GitHub Trophies
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrA-png&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awngz101@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="coding.gif" width="350" alt="Coding GIF"/>
+</p>
+
+<p align="center"><b>Happy Coding! 🚀</b></p>
