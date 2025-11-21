@@ -1,26 +1,41 @@
-<!-- Header -->
-<h2 align="center">Hi, I'm Azhrul 👋</h2>
+<!-- Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/yZ8M5Q0.gif" width="650" alt="Banner"/>
+</div>
+
+<h1 align="center">Hi, I'm Azhrul 👋</h1>
 
 <p align="center">
-  I'm a Software Engineer with 1–2 years of experience, passionate about Full Stack Development and AI.<br/>
-  I love learning new technologies — especially Artificial Intelligence 🤖 — and exploring how ChatGPT can empower the IT world.<br/>
-  Currently practicing <b>Vibe Coding</b> and actively building my skills for future career growth.
+  <b>Software Engineer (1–2 years)</b> — passionate about Full Stack Development, AI, and modern coding workflow.<br/>
+  I love exploring new technologies, especially Artificial Intelligence 🤖 and how ChatGPT can accelerate IT development.<br/>
+  Currently practicing <b>Vibe Coding</b> and sharpening skills for future growth.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌗 Automatic Dark / Light Mode Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="160"/>
+<!-- GitHub Stats -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=default&hide_border=true"/>
+</picture>
+
+<!-- Top Languages -->
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=default&hide_border=true"/>
+</picture>
 
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+# 📈 Auto-Updating Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrA-png&theme=react-dark&area=true&hide_border=true"/>
@@ -28,49 +43,28 @@
 
 ---
 
-## 🧠 Quote
+# 📆 Auto-Update Stats (Daily)
 
-<div align="center">
-  
-> “The best way to predict the future is to invent it.”  
-> — Alan Kay
+Tambahkan file GitHub Actions agar stats otomatis refresh tiap hari.
 
-</div>
+### Buat file:
+`.github/workflows/update-stats.yml`
 
----
+Isi dengan:
 
-## 🛠 Tech Stack
+```yml
+name: Update Stats
 
-<div align="center">
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,express,react,nextjs,html,css,python,tailwind,mongodb,mysql,redis,docker,figma,aws,linux,git,vite)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrA-png&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</div>
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awngz101@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://i.imgur.com/yZ8M5Q0.gif" width="400" alt="coding gif"/>
-  <br/><br/>
-  <b>Happy Coding! 🚀</b>
-</div>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
