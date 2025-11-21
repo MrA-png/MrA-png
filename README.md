@@ -37,7 +37,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,nuxtjs,nodejs,vuejs,express,react,nextjs,html,css,python,tailwind,mongodb,mysql,figma,aws,firebase,supabase,flutter,laravel,gcp,linux,git,vite,postman,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,nuxtjs,nodejs,vuejs,express,react,nextjs,html,css,python,tailwind,mongodb,mysql,figma,aws,firebase,supabase,flutter,laravel,gcp,linux,git,vite,postman,dart,bootstrap)](https://skillicons.dev)
 
 </div>
 
