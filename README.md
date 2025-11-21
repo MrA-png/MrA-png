@@ -1,7 +1,6 @@
 <!-- Banner otomatis dark/light -->
 <p align="center">
-  <img src="banner-light.png#gh-light-mode-only" width="100%">
-  <img src="banner-dark.png#gh-dark-mode-only" width="100%">
+  <img src="b[anner-light.png#gh-light-mode-only](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR3a2d0M3ZqZHBuaDhpM2h2dXFydzgwOTZ0bmF4ZGEzd3BkcXk0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUTywPPYZpdDChyBaZ/giphy.gif)" width="100%">
 </p>
 
 <h2 align="center">Hi, I'm Azhrul 👋</h2>
@@ -56,16 +55,16 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awngz101@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhrulpai45@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azhrulazmrpi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhrul-azim-ripai)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="coding.gif" width="350" alt="Coding GIF"/>
+  <img src="[coding.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh0dzFtYnAwbWc5ZWNjaGZ0ejNvOTBvZ3A0NWp6ZHlyYXdsNTBlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif)" width="350" alt="Coding GIF"/>
 </p>
 
 <p align="center"><b>Happy Coding! 🚀</b></p>
