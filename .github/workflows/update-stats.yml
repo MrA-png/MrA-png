@@ -1,0 +1,28 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # update tiap 12 jam
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Generate stats SVG
+      uses: anmol098/waka-readme-stats@master
+      with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+    - name: Commit & Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Auto-update stats" || echo "No changes to commit"
+        git push
