@@ -1,6 +1,6 @@
 <!-- Banner otomatis dark/light -->
 <p align="center">
-  <img src="b[anner-light.png#gh-light-mode-only](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR3a2d0M3ZqZHBuaDhpM2h2dXFydzgwOTZ0bmF4ZGEzd3BkcXk0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUTywPPYZpdDChyBaZ/giphy.gif)" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR3a2d0M3ZqZHBuaDhpM2h2dXFydzgwOTZ0bmF4ZGEzd3BkcXk0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUTywPPYZpdDChyBaZ/giphy.gif" width="100%">
 </p>
 
 <h2 align="center">Hi, I'm Azhrul 👋</h2>
