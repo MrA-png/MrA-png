@@ -1,5 +1,8 @@
 name: Update GitHub Profile Stats
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *" # update tiap 12 jam
