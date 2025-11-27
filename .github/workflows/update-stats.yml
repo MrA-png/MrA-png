@@ -2,7 +2,7 @@ name: Update GitHub Profile Stats
 
 on:
   schedule:
-    - cron: "0 */5 * * *" # update tiap 12 jam
+    - cron: "0 */12 * * *" # update tiap 12 jam
   workflow_dispatch:
 
 jobs:
