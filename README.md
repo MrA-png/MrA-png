@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrA-png&theme=dracula&title=Stars,Followers,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrA-png&theme=dracula&margin-w=15&margin-h=15" />
 </div>
 
 ---
