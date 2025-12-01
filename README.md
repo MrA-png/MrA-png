@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh0dzFtYnAwbWc5ZWNjaGZ0ejNvOTBvZ3A0NWp6ZHlyYXdsNTBlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="350" alt="Coding GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh0dzFtYnAwbWc5ZWNjaGZ0ejNvOTBvZ3A0NWp6ZHlyYXdsNTBlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="280" alt="Coding GIF"/>
 </p>
 
 <p align="center"><b>Happy Coding! 🚀</b></p>
