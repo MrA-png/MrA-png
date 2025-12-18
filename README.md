@@ -51,6 +51,20 @@
 
 ---
 
+## 🌐 Selected Projects
+
+[![Invaderzone](https://img.shields.io/badge/Invaderzone-Visit-blue?style=for-the-badge)](https://invaderzone.com)
+[![InsightOps](https://img.shields.io/badge/InsightOps-Visit-blue?style=for-the-badge)](https://insightops.xyz/login)
+[![Agares](https://img.shields.io/badge/Agares-Visit-blue?style=for-the-badge)](https://agares-web-nine.vercel.app)
+[![Meika Studio](https://img.shields.io/badge/Meika%20Studio-Visit-blue?style=for-the-badge)](https://meikastudio.com)
+[![Partner Sehatin](https://img.shields.io/badge/Partner%20Sehatin-Visit-blue?style=for-the-badge)](https://partnersehatin.meikastudio.com)
+[![EWSD Assanggai](https://img.shields.io/badge/EWSD%20Assanggai-Visit-blue?style=for-the-badge)](https://ewsdassanggai.com)
+[![EWSD Dashboard](https://img.shields.io/badge/EWSD%20Dashboard-Visit-blue?style=for-the-badge)](https://dashboard.ewsdassanggai.com)
+[![Mertani Storybook](https://img.shields.io/badge/Mertani%20Storybook-Visit-blue?style=for-the-badge)](https://storybook.mertani.com)
+[![Sehatin](https://img.shields.io/badge/Sehatin-Visit-blue?style=for-the-badge)](https://sehatin.meikastudio.com)
+
+---
+
 ## 📬 Let's Connect!
 
 <div align="center">
