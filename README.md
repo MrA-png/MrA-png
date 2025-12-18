@@ -62,6 +62,8 @@
 [![EWSD Dashboard](https://img.shields.io/badge/EWSD%20Dashboard-Visit-blue?style=for-the-badge)](https://dashboard.ewsdassanggai.com)
 [![Mertani Storybook](https://img.shields.io/badge/Mertani%20Storybook-Visit-blue?style=for-the-badge)](https://storybook.mertani.com)
 [![Sehatin](https://img.shields.io/badge/Sehatin-Visit-blue?style=for-the-badge)](https://sehatin.meikastudio.com)
+[![Isitasi](https://img.shields.io/badge/Isitasi-Visit-blue?style=for-the-badge)](https://isitasi.com)
+[![DOI Pubmedia](https://img.shields.io/badge/DOI%20Pubmedia-Visit-blue?style=for-the-badge)](https://doi.pubmedia.co.id)
 
 ---
 
