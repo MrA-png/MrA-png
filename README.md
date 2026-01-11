@@ -13,13 +13,60 @@
 
 ---
 
-## 📊 GitHub Stats (Auto-Updated)
+## 📊 GitHub Stats (Auto Theme)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrA-png&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+<!-- GitHub Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MrA-png&show_icons=true"
+    height="160"
+    alt="GitHub Stats"
+  />
+</picture>
+
+<!-- Top Languages -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrA-png&layout=compact"
+    height="160"
+    alt="Top Languages"
+  />
+</picture>
+
+<!-- GitHub Streak -->
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=MrA-png&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=MrA-png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MrA-png"
+    height="160"
+    alt="GitHub Streak"
+  />
+</picture>
 
 </div>
 
