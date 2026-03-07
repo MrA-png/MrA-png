@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 GitHub Stats (Auto Theme)
+## 📊 GitHub Stats
 
 <div align="center">
 
