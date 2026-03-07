@@ -5,6 +5,8 @@
 
 <h2 align="center">Hi, I'm Azhrul 👋</h2>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Enthusiast;FrontEnd+Developer;Mobile+Developer;Backend+Developer)
+
 <p align="center">
   I'm a Software Engineer with 1–2 years of experience, focusing on Full Stack Development and AI.<br/>
   I love exploring new technologies, especially Artificial Intelligence 🤖 and improving my skills through Vibe Coding.<br/>
@@ -131,3 +133,5 @@
 </p>
 
 <p align="center"><b>Happy Coding! 🚀</b></p>
+
+![Visitors](https://komarev.com/ghpvc/?username=MrA-png)
