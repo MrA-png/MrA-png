@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # update tiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,8 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
     - name: Generate stats SVG
       uses: anmol098/waka-readme-stats@master
@@ -41,6 +43,9 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+
         git add .
         git commit -m "Auto-update stats" || echo "No changes to commit"
-        git push
+
+        git pull --rebase origin main
+        git push origin main
