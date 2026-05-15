@@ -3,16 +3,6 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR3a2d0M3ZqZHBuaDhpM2h2dXFydzgwOTZ0bmF4ZGEzd3BkcXk0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUTywPPYZpdDChyBaZ/giphy.gif"  width="280" alt="Coding GIF">
 </p>
 
-<h2 align="center">Hi, I'm Azhrul 👋</h2>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Enthusiast;FrontEnd+Developer;Mobile+Developer;Backend+Developer)
-
-<p align="center">
-  I'm a Software Engineer with 1–2 years of experience, focusing on Full Stack Development and AI.<br/>
-  I love exploring new technologies, especially Artificial Intelligence 🤖 and improving my skills through Vibe Coding.<br/>
-  Passionate about building smart, clean, and scalable products.
-</p>
-
 ---
 
 ## 📊 GitHub Stats
