@@ -98,31 +98,12 @@
   <img src="https://github-trophies.vercel.app/?username=MrA-png&theme=dracula" />
 </div>
 
----
-
-## 🌐 Selected Projects
-
-[![Invaderzone](https://img.shields.io/badge/Invaderzone-Visit-blue?style=for-the-badge)](https://invaderzone.com)
-[![InsightOps](https://img.shields.io/badge/InsightOps-Visit-blue?style=for-the-badge)](https://insightops.xyz/login)
-[![Agares](https://img.shields.io/badge/Agares-Visit-blue?style=for-the-badge)](https://agares-web-nine.vercel.app)
-[![Meika Studio](https://img.shields.io/badge/Meika%20Studio-Visit-blue?style=for-the-badge)](https://meikastudio.com)
-[![Partner Sehatin](https://img.shields.io/badge/Partner%20Sehatin-Visit-blue?style=for-the-badge)](https://partnersehatin.meikastudio.com)
-[![EWSD Assanggai](https://img.shields.io/badge/EWSD%20Assanggai-Visit-blue?style=for-the-badge)](https://ewsdassanggai.com)
-[![EWSD Dashboard](https://img.shields.io/badge/EWSD%20Dashboard-Visit-blue?style=for-the-badge)](https://dashboard.ewsdassanggai.com)
-[![Mertani Storybook](https://img.shields.io/badge/Mertani%20Storybook-Visit-blue?style=for-the-badge)](https://storybook.mertani.com)
-[![Sehatin](https://img.shields.io/badge/Sehatin-Visit-blue?style=for-the-badge)](https://sehatin.meikastudio.com)
-[![Isitasi](https://img.shields.io/badge/Isitasi-Visit-blue?style=for-the-badge)](https://isitasi.com)
-[![DOI Pubmedia](https://img.shields.io/badge/DOI%20Pubmedia-Visit-blue?style=for-the-badge)](https://doi.pubmedia.co.id)
-
----
 
 ## 📬 Let's Connect!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhrulpai45@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azhrulazmrpi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhrul-azim-ripai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.azhrul@gmail.com)
 
 </div>
 
